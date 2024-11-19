@@ -4,10 +4,10 @@
 
 **相关数据**
 
-https://github.com/garychowcmu/daizhigev20
+古文原文：https://github.com/garychowcmu/daizhigev20
 
-https://aclanthology.org/
+查询更多：https://aclanthology.org/
 
-https://github.com/NiuTrans/Classical-Modern
+平行对照：https://github.com/NiuTrans/Classical-Modern
 
 **相关模型**https://github.com/LlamaFamily/Llama-Chinese
